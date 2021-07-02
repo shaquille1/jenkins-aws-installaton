@@ -1,3 +1,2 @@
-# terraform-jenkins-eks
-Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS
+# Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS
 
