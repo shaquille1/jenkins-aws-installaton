@@ -1,2 +1,2 @@
-# Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS
+# Installing Jenkins on AWS using Terraform 
 
